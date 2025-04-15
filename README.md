@@ -38,7 +38,6 @@ The dataset contains anonymous responses from students regarding:
 
 ## 📂 Project Files
 
-- mental_health_queries.sql — All SQL queries used in the analysis.
+- SQL_Mental_Heath_Project.sql — All SQL queries used in the analysis.
 - mental_health_summary_report.md — Textual summary and insights from the data.
-- mental_health_charts.ipynb — Optional Python notebook for charts and graphs.
-- students_mental_health.csv — Dataset used for the analysis.
+- students mental health.csv — Dataset used for the analysis.
